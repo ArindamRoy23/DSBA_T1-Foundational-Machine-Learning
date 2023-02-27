@@ -1,0 +1,57 @@
+label,mail_type,0
+0,multipart/alternative,11259
+0,multipart/mixed,858
+0,multipart/related,215
+0,nan,79
+0,text/html,4657
+0,text/html ,20
+0,text/plain,907
+1,multipart/alternative,27451
+1,multipart/idm,1
+1,multipart/mixed,3609
+1,multipart/related,969
+1,multipart/report,13
+1,multipart/signed,26
+1,nan,93
+1,text/calendar,4
+1,text/html,3505
+1,text/html ,18
+1,text/plain,1506
+2,multipart/alternative,6554
+2,multipart/mixed,562
+2,multipart/related,67
+2,text/html,1362
+2,text/html ,20
+2,text/plain,2
+3,multipart/alternative,7979
+3,multipart/mixed,1184
+3,multipart/related,742
+3,text/html,532
+3,text/plain,290
+4,multipart/alternative,263
+4,multipart/mixed,41
+4,text/html,51
+4,text/plain,2
+5,multipart/alternative,24
+5,multipart/mixed,66
+5,multipart/related,3
+5,text/html,44
+5,text/plain,4
+6,multipart/alternative,116
+6,multipart/mixed,8
+6,text/html,23
+6,text/plain,5
+7,multipart/alternative,4806
+7,multipart/mixed,172
+7,text/html,60
+7,text/plain,4
+test_df,multipart/alternative,25082
+test_df,multipart/idm,1
+test_df,multipart/mixed,2723
+test_df,multipart/related,879
+test_df,multipart/report,2
+test_df,multipart/signed,6
+test_df,nan,80
+test_df,text/html,4388
+test_df,text/html ,25
+test_df,text/plain,1179
